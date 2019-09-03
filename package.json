@@ -49,5 +49,17 @@
   },
   "jest": {
     "preset": "react-native"
-  }
+  },
+  "description": "<h1 align=\"center\">\r   <img src=\"./src/assets/images/logo.png\"/><br>\r   React Native Navigation + Firebase + MobX + Other Goodies\r </h1>",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Geohalbert/mobile-memos.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Geohalbert/mobile-memos/issues"
+  },
+  "homepage": "https://github.com/Geohalbert/mobile-memos#readme"
 }

@@ -1,39 +1,37 @@
 {
   "project_info": {
-    "project_number": "",
-    "firebase_url": "",
-    "project_id": "",
-    "storage_bucket": ""
+    "project_number": "687932952058",
+    "firebase_url": "https://mobile-memos-8ab4c.firebaseio.com",
+    "project_id": "mobile-memos-8ab4c",
+    "storage_bucket": "mobile-memos-8ab4c.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "",
+        "mobilesdk_app_id": "1:687932952058:android:33dad423288839ba",
         "android_client_info": {
-          "package_name": "org.reactjs.native.example.ReactNativeMobxFirebaseStarter"
+          "package_name": "com.halsmobilememos"
         }
       },
       "oauth_client": [
         {
-          "client_id": "",
+          "client_id": "687932952058-62toh59tudf7g6rmr377a83ao70cc0vu.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": ""
+          "current_key": "AIzaSyDdklx_wxz8ANlqZrsWGxchFloF91h5oLM"
         }
       ],
       "services": {
-        "analytics_service": {
-          "status": 1
-        },
         "appinvite_service": {
-          "status": 1,
-          "other_platform_oauth_client": []
-        },
-        "ads_service": {
-          "status": 2
+          "other_platform_oauth_client": [
+            {
+              "client_id": "687932952058-62toh59tudf7g6rmr377a83ao70cc0vu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
         }
       }
     }
